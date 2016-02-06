@@ -1,0 +1,36 @@
+SMAP
+adminregistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminregistration.jsp
+adminregistration.jsp
++ 1 bar.jsp
+bar.jsp
++ 2 header.jsp
+header.jsp
++ 3 menu.jsp
+menu.jsp
++ 4 footer.jsp
+footer.jsp
+*L
+1,156:54
+5#1,14:210
+19,18:225
+36:243
+37:244,3
+38:247
+39,10:249
+48:259
+49:260,3
+50:263
+51,9:265
+59,5:274
+156#0,4:278
+5#2,14:282
+159#0,5:295
+5#3,29:300
+163#0,28:328
+5#4,25:356
+190#0,7:380
+*E

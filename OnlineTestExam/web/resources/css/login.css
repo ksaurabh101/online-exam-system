@@ -1,0 +1,98 @@
+.contents{
+    width: 680px;
+    height: 500px;
+    float:left;
+}
+.login{
+    width: 420px;
+    height: 220px;
+    margin: 150px 100px 150px 100px;
+    background-color: #e5f11e;
+}
+.align{
+    width: auto;
+    height: auto;
+    margin: 30px 70px 0 50px;
+    
+}
+.admin{
+    width: 200px;
+    height: 70px;
+    padding: 10px 30px 10px 10px;
+    background-color: aqua;
+    margin: 20px;
+    float: left;
+    border-radius: 10px ;
+}
+.admin a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    width: 200px;
+    font-size: 23px;
+    text-shadow: -5px -5px 2px red;
+}
+.signout{
+    margin: 170px 130px 430px 150px;
+    font-size: 30px;
+}
+.contact{
+    width: 420px;
+    height:auto;
+    padding: 0px 0px 20px 0px;;
+    margin: 150px 100px 150px 100px;
+    background-color: #e5f11e;
+}
+.paper{
+    width: 420px;
+    height:auto;
+    padding: 0px 0px 20px 0px;;
+    margin: 150px 120px 150px 80px;
+    background-color: #e5f11e;
+    
+}
+.choice{
+    margin: 50px 70px 50px 0px;
+    margin-left: 150px;
+    
+}
+
+.choice1{
+    margin: 200px 150px 200px 150px;   
+}
+.contents a{
+    text-decoration: none;
+    color: blue;
+    margin: 10px;
+    display: block;
+    background-color: aqua;
+    width: 130px;
+    float: left;
+    font-size: 25px;
+    border-radius: 12px;
+}
+
+.exam{
+    margin: 0px 50px 0px 50px;
+    
+    font-size: 25px;
+}
+.exam table tr td{
+    padding-right: 10px;
+    
+}
+.report{
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+.report tr{
+    
+}
+.report tr td{
+    margin:20px;
+    background-color: antiquewhite;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style: solid;
+    
+}

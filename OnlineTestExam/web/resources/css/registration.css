@@ -1,0 +1,20 @@
+.contents{
+    width: 680px;
+    height: 500px;
+    float:left;
+}
+
+.registration{
+    width: 420px;
+    height:auto;
+    padding: 0px 0px 20px 0px;;
+    margin: 150px 100px 150px 100px;
+    background-color: #e5f11e;
+}
+.admin a{
+    text-decoration: none;
+    display: block;
+    color: blue;
+    width: 200px;
+    font-size: 23px;
+}
